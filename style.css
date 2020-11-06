@@ -1,0 +1,9 @@
+.vlogs{ border:10px solid red ; border-radius:30px ; text-align:justify; padding:10px; width:45%; float:right; margin:17px 20px 20px 20px;}
+.this{ border:10px solid red ; border-radius:30px; text-align:justify; padding:10px; width:45%;  }
+.rj{ text-align:center; }
+.login{ background-color:rgb(0, 107, 247); color:white; font-family:arial black; }
+.logins{ background-color:rgb(0, 247, 0); color:white; font-family:arial black; }
+.page{ border:1px solid rgb(0, 0, 0) ; border-radius:30px ; text-align:justify; padding:10px; width:45%; margin: 20px; float:right;  text-align:center; background-color:rgb(236, 223, 223); }
+.singin{ background-color:rgb(89, 54, 243); color:white; font-family:arial black; }
+.newaccount{ border:1px solid rgb(0, 0, 0) ; border-radius:30px ; text-align:justify; padding:10px; width:45%;  text-align:center; background-color:rgb(236, 223, 223);  }
+.welcome{ background-color:#444;  color:white; font-family:arial black; font-size:26px; text-align:center; padding-top: 27px; width:100%; height:90px;  }
